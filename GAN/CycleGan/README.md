@@ -2,7 +2,7 @@
 
 This repository contains a PyTorch implementation of **CycleGAN** (Cycle-Consistent Adversarial Networks) for unpaired image-to-image translation. The model is trained to translate images of **Yosemite National Park from Summer to Winter** (and vice versa) without requiring paired training data.
 
-![Sample Output](sample_32600.jpg)
+![Sample Output](sample_32600.png)
 *Row 1: Real Summer | Row 2: Generated Winter | Row 3: Real Winter | Row 4: Generated Summer*
 
 ## 📝 Project Overview
